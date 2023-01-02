@@ -1,0 +1,17 @@
+
+#name-header {
+    color: rgb(13, 0, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    color: rgb(13, 0, 255); 
+}
